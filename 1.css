@@ -1,8 +1,8 @@
 .subtitle{
     background-color: darkgray;
     font-family: Candara;
-    font-size:25px;
-    text-align: center;
+    font-size:20px;
+    text-align: left;
 }
 h1{
     font-family:"Brush Script MT";
@@ -14,12 +14,7 @@ h1{
     text-align: right;
     height:140px;
 }
-.subtitle{
-    font-family: Impact;
-    font-size:20px;
-    text-align: left;
-    height: 30px;
-}
+
 .link{
     font-family: "Bookman Old Style";
 }
