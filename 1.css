@@ -1,0 +1,58 @@
+h1{
+    font-family:"Brush Script MT";
+    font-size:50px;
+    text-align:center;
+}
+p{
+    font-size:25px;
+    font-family:"Berlin Sans FB Demi";
+}
+.title{
+    background: grey;
+    text-align: right;
+    height:140px;
+}
+.subtitle{
+    font-family:Candara;
+    font-size:20px;
+    height: 30px;
+    background-color: dimgray;
+    color: #ffffff;
+}
+.left{
+    font-family:"Agency FB";
+    font-size:30px;
+    font-weight:bold;
+    color: black;
+    line-height: 50px;
+    background-color: gainsboro;
+    height:400px;
+    width:250px;
+    padding:10px;
+    float:left;
+}
+.content{
+    width: 1064px;
+    background-color: white;
+    text-align:left;
+}
+.footer{
+    color:white;
+    clear: both;
+    background-color: gray;
+    text-align:right;
+    font-family: "Agency FB";
+    font-size:20px;
+}
+#left1{
+    font-family:"Agency FB";
+    font-size:30px;
+    font-weight:bold;
+    color: black;
+    line-height: 50px;
+    background-color: gainsboro;
+    height:600px;
+    width:250px;
+    padding:10px;
+    float:left;
+}
