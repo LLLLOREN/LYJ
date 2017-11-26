@@ -102,7 +102,10 @@ body{
     font-weight: bold;
 }
 .foot{
+    width: 950px;
+    height: 35px;
+    clear: both;
     color: #989898;
     text-align: right;
-    margin: 12px 280px 0 0;
+    margin: 12px 88px 0 0;
 }
