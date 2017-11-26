@@ -1,0 +1,108 @@
+body{
+    position:relative;
+    min-width: 720px;
+    min-height: 550px;
+    vertical-align: middle;
+    font-size: 12px;
+    font-family: 微软雅黑;
+    margin: 0;
+}
+.head{
+    height:58px;
+    width: 950px;
+    margin:0 auto;
+}
+.logo{
+    position: absolute;
+    display: inline-block;
+    float: left;
+    width:500px;
+    height: 58px;
+}
+.help{
+    padding:23px 64px 0 0;
+    float: right;
+    text-align: right;
+    color: #777;
+}
+#main {
+    background-image: url("http://mail.dlut.edu.cn/coremail/index_data.jsp?ts=1420737020000&key=customer_background_img0");
+    width: 950px;
+    height: 415px;
+    clear: both;
+    margin: 0 auto;
+}
+#main1{
+    display: inline-block;
+    width: 532px;
+    height: 415px;
+    float: left;
+}
+.input{
+    display: inline-block;
+    width: 335px;
+    height: 390px;
+    background-color: rgba(255,255,255,0.5);
+    margin-top: 12.5px;
+}
+.head1{
+    height:30px;
+    padding: 14px 0 0;
+    margin:0 17px  0;
+    color: #424242;
+}
+.title{
+    font-size: 14px;
+    color: #020202;
+    font-weight: bold;
+    float: left;
+}
+.language{
+    float: right;
+}
+.input2{
+    display:block;
+    height: 301px;
+    margin: 0 17px 0;
+}
+.ninput{
+    display: block;
+    height: 43px;
+    margin:0 0 6px 0;
+    background-color: white;
+    font-family: verdana;
+    background-origin: padding-box;
+}
+.in_input{
+    display: block;
+    width: 268px;
+    height: 27px;
+    border: none;
+    font-size: 16px;
+    float: right;
+    padding: 6px 3px 4px 25px;
+}
+.choose{
+    height:23px;
+    width: 298px;
+}
+.save{
+    color: #424242;
+    text-align: center;
+    font-size: 12px;
+}
+.login{
+    width: 295px;
+    height: 40px;
+    border: 1px solid rgb(22,118,167);
+    background-color: rgb(22,118,167);
+    color:white;
+    text-align: center;
+    font-size:16px;
+    font-weight: bold;
+}
+.foot{
+    color: #989898;
+    text-align: right;
+    margin: 12px 280px 0 0;
+}
